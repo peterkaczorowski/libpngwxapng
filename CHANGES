@@ -6239,11 +6239,6 @@ Version 1.6.46 [January 23, 2025]
   Cleaned up contrib/pngminus: corrected an old typo, removed an old
     workaround, and updated the CMake file.
 
-Vesion 1.6.46 APNG [February 24, 2025]
-  Added support for Animated PNG files.
-    The patch is available at the following address: https://sourceforge.net/projects/libpng-apng/
-    (Contributed by Daisuke Nishikawa)
-
 Send comments/corrections/commendations to png-mng-implement at lists.sf.net.
 Subscription is required; visit
 https://lists.sourceforge.net/lists/listinfo/png-mng-implement
